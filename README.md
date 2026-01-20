@@ -9,6 +9,7 @@ Welcome to the **StudySmart** repository! This project is being developed by the
 - [System Architecture](#system-architecture)
 - [Development Setup](#development-setup)
 - [Team Members](#team-members)
+- [Detailed Documentation](#detailed-documentation)
 - [Documentation and Examples](#documentation-and-examples)
 
 ## Project Overview
@@ -53,6 +54,15 @@ The StudySmart web application follows a **Microservices Architecture** for scal
   - Emmanuel Nifakos
   - Alvaro Flores
   - Dylan Everett
+
+## Detailed Documentation
+
+For more in-depth documentation, please refer to the following guides:
+
+- [**API Documentation**](docs/API.md): Detailed reference for backend endpoints.
+- [**Database Schema**](docs/DATABASE.md): Information about the Oracle database structure.
+- [**Frontend Guide**](docs/FRONTEND.md): Overview of the React frontend architecture.
+- [**Deployment & Setup**](docs/DEPLOYMENT.md): Comprehensive setup and deployment instructions.
 
 ## Documentation and Examples
 
